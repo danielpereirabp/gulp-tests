@@ -1,0 +1,20 @@
+{
+  "name": "gulp-tests",
+  "version": "1.0.0",
+  "description": "Gulp Tests",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp",
+    "test"
+  ],
+  "author": "Daniel Pereira",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "laravel-elixir": "^4.2.1",
+    "rimraf": "^2.5.1"
+  }
+}

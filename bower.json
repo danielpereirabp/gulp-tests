@@ -1,0 +1,28 @@
+{
+  "name": "gulp-tests",
+  "description": "Gulp Tests",
+  "main": "app.js",
+  "authors": [
+    "Daniel Pereira"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "gulp",
+    "test"
+  ],
+  "moduleType": [
+    "amd"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.4.9",
+    "bootstrap": "^3.3.6"
+  }
+}
